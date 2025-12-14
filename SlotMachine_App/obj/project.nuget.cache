@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8PwwtFV+v2U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Iulian\\Desktop\\miru\\egc_slot_machine\\SlotMachine_App\\SlotMachine_App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iulian\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
